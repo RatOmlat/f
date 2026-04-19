@@ -2,4 +2,4 @@
 
 <font color="c33737">Welcome to the trials</font>
 
-<span style="color: blue;">Синий текст</span>
+<span style="color: blue;">text</span>
