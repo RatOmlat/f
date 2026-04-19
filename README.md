@@ -9,7 +9,7 @@
 <br>
 <br>
 <p align="right"
- <img width="100"
+<img width="500"
 <table>
 <tr>
  <td>$${\color{gold} \verb||WELCOME*TO*THE*TRIAL}$$</td>
