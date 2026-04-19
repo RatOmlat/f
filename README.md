@@ -5,6 +5,7 @@
 <tr>
   <td>$${\color{gold} \verb||hellooo}$$</td>
   <p align="center>
+    
   <td>$${\color{gold} \verb||hola again}$$</td>
 </tr>
 </table>
