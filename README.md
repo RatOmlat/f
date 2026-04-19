@@ -4,7 +4,10 @@
 
 <table>
 <tr>
-  <td>$${\color{gold} \verb||крыс}$$</td> 
+  <td>$${\color{gold} \verb||rat}$$</td> 
+  <td>$${\color{gold} \verb||rat}$$</td>
+  <br>
+  <td>$${\color{gold} \verb||rat}$$</td> 
 </tr>
 </table>
 
