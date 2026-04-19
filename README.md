@@ -12,4 +12,5 @@
 ###<table> <td>$${\color{gold} \verb||WELCOME*TO*THE*TRIAL}$$</td>
 <tr>
 <br>
+<img width="468" height="19" alt="tumblr_e9e2b5f5063a1d87092054480fd66944_fffb8d13_400" src="https://github.com/user-attachments/assets/b75999a1-04c1-479b-b882-29fe3c4c64a4" />
 
