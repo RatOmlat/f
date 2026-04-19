@@ -4,6 +4,6 @@
 
 <table>
 <tr>
-  <td>$${\color{red} \verb|**|hellloo}$$</td>
+  <td>$${\color{purple} \verb|**|hellloo}$$</td>
 </tr>
 </table>
