@@ -8,7 +8,7 @@
 <br>
 <p align="right"
  
- ## $${\color{gold}WELCOME \space \color{gold}TO \space \color{gold}THE \space \color{gold}TRIAL.}$$
+ 
  ## $${\color{gold}WELCOME \space \color{gold}TO \space \color{gold}THE \space \color{gold}TRIAL.}$$
 <br>
 <p align="center"
