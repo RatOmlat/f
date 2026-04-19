@@ -4,8 +4,7 @@
 
 <table>
 <tr>
-  <td>$${\color{gold} \verb||hellooo}$$</td>
-  <br> nfgnfg
+  <td>$${\color{gold} \verb||hellooo}$$</td>, $${\color{gold} \verb||hello}$$</td>
 </tr>
 </table>
 
