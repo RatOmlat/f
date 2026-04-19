@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## $${ \space  \space \space \space \space \space \space \space \space \color{gold}WELCOME \space \color{gold}TO}$$
+## $${ \space  \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space\color{gold}WELCOME \space \color{gold}TO}$$
 ## $${ \space \color{gold}THE \space \color{gold}TRIAL.}$$
 <br>
 <p align="center"
