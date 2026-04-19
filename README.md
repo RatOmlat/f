@@ -5,7 +5,7 @@
 <table>
 <tr>
   <td>$${\color{gold} \verb||hellooo}$$</td>
-  <td>$${\color{gold} \verb||hola_again}$$</td>
+  <td>$${\color{gold} \verb||hola again}$$</td>
 </tr>
 </table>
 
