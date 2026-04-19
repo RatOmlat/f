@@ -6,8 +6,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <p align="right"
-##<table> <td>$${\color{gold} \verb||WELCOME*TO*THE*TRIAL}$$</td>
+###<table> <td>$${\color{gold} \verb||WELCOME*TO*THE*TRIAL}$$</td>
 <tr>
 <br>
 
