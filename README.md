@@ -1,3 +1,2 @@
-                                                                              hello hello?
-<img src="./images/demo.gif" width="500" />
-<img width="228" height="270" alt="689a38ab717f27240237e36a9a388658_t1" src="https://github.com/user-attachments/assets/7af06aad-1f7a-40be-b592-2c22770c36f9" />
+<img align="left" width="700" height="1109" alt="outlast trials_ project judas (poster)" src="https://github.com/user-attachments/assets/edee3797-419f-40a5-915d-15d8205c5a4a" />
+
