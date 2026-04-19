@@ -4,8 +4,6 @@
 <p align="right"
 <table>
 <tr>
-  <td>$${\color{gold} \verb||rat}$$</td> 
-</tr>
-</table>
+  <td>$${\color{gold} \verb||rat}$$</td>
   <td>$${\color{gold} \verb||rat}$$</td> 
 
