@@ -8,11 +8,9 @@
 <br>
 <p align="right"
  
-<p width="500"
- 
 <table>
 <tr>
- <td>$${\color{gold} \verb||WELCOME*TO*THE*TRIAL}$$</td>
+ #<td>$${\color{gold} \verb||WELCOME*TO*THE*TRIAL}$$</td>
 </tr>
 </table>
 <br>
