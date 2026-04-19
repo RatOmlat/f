@@ -7,6 +7,7 @@
 <br>
 <br>
 <p align="right"
+ 
  # $${\color{gold}Welcome \space \color{gold}To \space \color{gold}The \space \color{gold}Trial.}$$
 <br>
 <p align="center"
